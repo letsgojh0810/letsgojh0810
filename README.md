@@ -62,6 +62,7 @@
 | 3  | **정규식 고도화** | 정규식(Regular Expression, RegEx) 고도화를 위한 주식 거래 시스템 데이터베이스 설계 | ElasticSearch, Logstash, Kibana, mySql| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/RegularExpression_E-Quiet) | 2025.01.17 |
 | 4  | **Automating Weather Data** | ELK 기반 Pipeline 시스템 구축, 실시간 날씨 데이터 수집 및 시각화 서비스 | ElasticSearch, Logstash, Kibana, mySql, DBeaver | &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/weather) | 2025.01.21 |
 | 5  | **실 금융 데이터 시각화** | Ubuntu에서의 ELK Stack 설치 및 실 금융 데이터를 기반한 Kibana 시각화  | ElasticSearch, Logstash, Kibana, Ubuntu, mobaxterm | &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/wooridata) | 2025.01.24 |
+| 6  | **실 금융 데이터 시각화** | Ubuntu에서의 ELK Stack 설치 및 실 금융 데이터를 기반한 Kibana 시각화  | ElasticSearch, Logstash, Kibana, Ubuntu, mobaxterm | &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/wooridata) | 2025.01.24 |
 
 
 <br>
