@@ -1,7 +1,7 @@
 <br>
 <br>
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&text=Learning,%20Growing,%20Creating&fontAlignY=50&fontColor=EEE4E1&fontSize=45&height=180&width=500&animation=fadeIn&borderRadius=30"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=90ee90&text=Learning,%20Growing,%20Creating&fontAlignY=50&fontColor=EEE4E1&fontSize=45&height=180&width=500&animation=fadeIn&borderRadius=30"/>
 </p>
 
 | GitAnimals | GitHub Stats |
