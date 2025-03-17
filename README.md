@@ -4,19 +4,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&text=Learning,%20Growing,%20Creating&fontAlignY=50&fontColor=EEE4E1&fontSize=45&height=180&width=500&animation=fadeIn&borderRadius=30"/>
 </p>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/letsgojh0810"
-  width="500"
-  height="300"
-/>
-</a>
+| GitAnimals | GitHub Stats |
+|------------|-------------|
+| [![GitAnimals](https://render.gitanimals.org/farms/letsgojh0810)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letsgojh0810&show_icons=true&theme=slateorange&size_weight=0&custom_title=Let's%20Go!&text_bold=true&card_width=500) |
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=letsgojh0810&show_icons=true&theme=slateorange&size_weight=0&custom_title=Let's%20Go!&text_bold=true&card_width=500" 
-         alt="GitHub Stats" >
-  </div>
-</div>
+
 
 
 
