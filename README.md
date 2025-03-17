@@ -36,13 +36,15 @@
 </p>
 <p align="center">
   <!-- DevOps & Database -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/postgresql-31648c?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 
 <br>
@@ -56,7 +58,6 @@
 | 3  | **정규식 고도화** | 정규식(Regular Expression, RegEx) 고도화를 위한 주식 거래 시스템 데이터베이스 설계 | ElasticSearch, Logstash, Kibana, mySql| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/RegularExpression_E-Quiet) | 2025.01.17 |
 | 4  | **Automating Weather Data** | ELK 기반 Pipeline 시스템 구축, 실시간 날씨 데이터 수집 및 시각화 서비스 | ElasticSearch, Logstash, Kibana, mySql, DBeaver | &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/weather) | 2025.01.21 |
 | 5  | **실 금융 데이터 시각화** | Ubuntu에서의 ELK Stack 설치 및 실 금융 데이터를 기반한 Kibana 시각화  | ElasticSearch, Logstash, Kibana, Ubuntu, mobaxterm | &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/wooridata) | 2025.01.24 |
-| 6  | **실 금융 데이터 시각화** | Ubuntu에서의 ELK Stack 설치 및 실 금융 데이터를 기반한 Kibana 시각화  | ElasticSearch, Logstash, Kibana, Ubuntu, mobaxterm | &nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/letsgojh0810/wooridata) | 2025.01.24 |
 
 
 <br>
