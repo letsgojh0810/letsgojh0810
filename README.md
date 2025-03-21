@@ -51,6 +51,9 @@
 
 ## 💻 Projects List
 
+<details>
+<summary>🔽 프로젝트 목록 보기</summary>
+
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **맛집 탐색 앱(kotlin)** | 카카오맵 API 기반 주변 맛집 탐색 어플| Android Studio, Kotlin, Kakao Map API, Login API | &nbsp;👩‍👩‍👧‍👦<br>(4명)| [GitHub 링크](https://github.com/marha-hwang/eater) | 2022.04.01 |
