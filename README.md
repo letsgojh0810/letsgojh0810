@@ -4,21 +4,34 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=90ee90&text=Learning,%20Growing,%20Creating&fontAlignY=50&fontColor=EEE4E1&fontSize=45&height=180&width=500&animation=fadeIn&borderRadius=30"/>
 </p>
 
-```
-- 👋 Hi, I’m Jeonghyun Han
-- 👀 I’m interested in JAVA, Spring, ELK
-```
+<h2 align="center">💻 About Me</h2>
 
-| GitAnimals | GitHub Stats |
+<br>
+<p align="center">
+  👋 Hi, I’m <strong>Jeonghyun Han</strong><br>
+  🌱 I’m currently diving into <strong>Java</strong>, <strong>Spring</strong>, <strong>Cloud</strong> and the <strong>ELK stack</strong><br>
+  💡 Always learning, always building!<br>
+</p>
+
+<br>
+
+<!-- | GitAnimals | GitHub Stats |
 |------------|-------------|
-| [![GitAnimals](https://render.gitanimals.org/farms/letsgojh0810)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letsgojh0810&show_icons=true&theme=slateorange&size_weight=0&custom_title=Let's%20Go!&text_bold=true&card_width=500) |
+| [![GitAnimals](https://render.gitanimals.org/farms/letsgojh0810)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letsgojh0810&show_icons=true&theme=slateorange&size_weight=0&custom_title=Let's%20Go!&text_bold=true&card_width=500) | -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=letsgojh0810&show_icons=true&theme=vue" alt="Albin's GitHub stats" />
+</p>
 
 
 <br>
 
----
 
-## 🔨 Used Skills & Tools
+
+
+---
+<h2 align="center">🔨 Used Skills & Tools</h2>
+
 <br>
 <p align="center">
   <!-- Java & Spring Boot -->
@@ -54,27 +67,61 @@
 
 ---
 
-## 💻 Projects
+<h2 align="center">🚀 Projects</h2>
+
 <br>
+<br>
+<p>
+  <strong>1. 맛집 탐색 앱</strong><br>
+  📍 카카오맵 API 기반 주변 맛집 탐색 어플<br>
+  🛠 Android Studio, Kotlin, Kakao Map API, Login API<br>
+  👥 팀원: 4명<br>
+  🔗 <a href="https://github.com/marha-hwang/eater">GitHub 링크</a> | 📅 2022.04.01
+</p>
+<hr>
 
-<details>
-<summary>🔽 프로젝트 목록 보기</summary>
+<p>
+  <strong>2. 학생 정보 관리 시스템</strong><br>
+  📍 학생 기본 정보, 목표, 스터디 희망 분야 관리 및 등하교 메이트 매칭 기능 제공<br>
+  🛠 STS4, Java, Maven, DBeaver, mySQL, BCrypt, JDBC, Lombok<br>
+  👥 팀원: 4명<br>
+  🔗 <a href="https://github.com/letsgojh0810/WooriInfo">GitHub 링크</a> | 📅 2025.01.10
+</p>
+<hr>
 
-| No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
-|----|---------------|------|-----------|----------|------|------|
-| 1  | **맛집 탐색 앱(kotlin)** | 카카오맵 API 기반 주변 맛집 탐색 어플| Android Studio, Kotlin, Kakao Map API, Login API | &nbsp;👩‍👩‍👧‍👦<br>(4명)| [Link](https://github.com/marha-hwang/eater) | 2022.04.01 |
-| 2  | **학생 정보 관리 시스템** | 학생들을 위한 정보 관리 시스템 학생들의 기본 정보, 목표, 스터디 희망 분야 등을 관리하고, 등하교 메이트 매칭 기능을 제공 | STS4, Java, Maven, DBeaver, mySql, BCrypt, JDBC, lombok| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [Link](https://github.com/letsgojh0810/WooriInfo) | 2025.01.10 |
-| 3  | **정규식 고도화** | 정규식(Regular Expression, RegEx) 고도화를 위한 주식 거래 시스템 데이터베이스 설계 | ElasticSearch, Logstash, Kibana, mySql| &nbsp;👩‍👩‍👧‍👦<br>(4명) | [Link](https://github.com/letsgojh0810/RegularExpression_E-Quiet) | 2025.01.17 |
-| 4  | **Automating Weather Data** | ELK 기반 Pipeline 시스템 구축, 실시간 날씨 데이터 수집 및 시각화 서비스 | ElasticSearch, Logstash, Kibana, mySql, DBeaver | &nbsp;👩‍👩‍👧‍👦<br>(4명) | [Link](https://github.com/letsgojh0810/weather) | 2025.01.21 |
-| 5  | **실 금융 데이터 시각화** | Ubuntu에서의 ELK Stack 설치 및 실 금융 데이터를 기반한 Kibana 시각화  | ElasticSearch, Logstash, Kibana, Ubuntu, mobaxterm | &nbsp;👩‍👩‍👧‍👦<br>(4명) | [Link](https://github.com/letsgojh0810/wooridata) | 2025.01.24 |
+<p>
+  <strong>3. 정규식 고도화</strong><br>
+  📍 주식 거래 시스템 데이터를 위한 정규식 기반 ELK DB 설계<br>
+  🛠 ElasticSearch, Logstash, Kibana, mySQL<br>
+  👥 팀원: 4명<br>
+  🔗 <a href="https://github.com/letsgojh0810/RegularExpression_E-Quiet">GitHub 링크</a> | 📅 2025.01.17
+</p>
+<hr>
+
+<p>
+  <strong>4. Automating Weather Data</strong><br>
+  📍 실시간 날씨 데이터 수집 및 ELK Stack 기반 시각화 시스템 구축<br>
+  🛠 ElasticSearch, Logstash, Kibana, mySQL, DBeaver<br>
+  👥 팀원: 4명<br>
+  🔗 <a href="https://github.com/letsgojh0810/weather">GitHub 링크</a> | 📅 2025.01.21
+</p>
+<hr>
+
+<p>
+  <strong>5. 실 금융 데이터 시각화</strong><br>
+  📍 Ubuntu 기반 ELK Stack 설치 및 실금융 데이터 시각화<br>
+  🛠 ElasticSearch, Logstash, Kibana, Ubuntu, mobaxterm<br>
+  👥 팀원: 4명<br>
+  🔗 <a href="https://github.com/letsgojh0810/wooridata">GitHub 링크</a> | 📅 2025.01.24
+</p>
 
 ---
 
 <br>
 <br>
-<p align='center'>
+<!-- <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&text=Thank%20You&fontAlignY=50&fontColor=EEE4E1&fontSize=45&height=180&width=500&animation=fadeIn&borderRadius=30&section=footer"/>
-</p>
+</p> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letsgojh0810)](https://github.com/letsgojh0810/github-readme-stats) -->
 
 <!---
