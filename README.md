@@ -4,13 +4,15 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=90ee90&text=Learning,%20Growing,%20Creating&fontAlignY=50&fontColor=EEE4E1&fontSize=45&height=180&width=500&animation=fadeIn&borderRadius=30"/>
 </p>
 
-<h3 align="center">Welcome</h3>
+
+
+<h3 align="center">🙋‍♂️ Welcome</h3>
 
 <br>
 <p align="center">
   👋 Hi, I’m <strong>Jeonghyun Han</strong><br>
   🌱 I’m currently diving into <strong>Java</strong>, <strong>Spring</strong>, <strong>Cloud</strong> and the <strong>ELK stack</strong><br>
-  💡 Always learning, always building!<br>
+  💡 Always <strong>learning</strong>, always <strong>building!</strong><br>
 </p>
 
 <br>
