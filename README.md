@@ -2,10 +2,13 @@
 <br>
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=90ee90&text=Learning,%20Growing,%20Creating&fontAlignY=50&fontColor=EEE4E1&fontSize=45&height=180&width=500&animation=fadeIn&borderRadius=30"/>
+</p>​
+
+<br>
+
+<p align="center">
+  <span style="font-size:28px; font-weight:bold;">😎 About Me</span>
 </p>
-
-<h2 align="center">💻 About Me</h2>
-
 <br>
 <p align="center">
   👋 Hi, I’m <strong>Jeonghyun Han</strong><br>
@@ -30,7 +33,10 @@
 
 
 ---
-<h2 align="center">🔨 Used Skills & Tools</h2>
+<p align="center">
+  <span style="font-size:28px; font-weight:bold;">🔨 Used Skills & Tools</span>
+</p>
+
 
 <br>
 <p align="center">
@@ -67,7 +73,9 @@
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
+<p align="center">
+  <span style="font-size:28px; font-weight:bold;">🚀 Projects</span>
+</p>
 
 <br>
 <br>
