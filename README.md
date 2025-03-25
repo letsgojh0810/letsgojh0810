@@ -9,6 +9,7 @@
 <h3 align="center">🙋‍♂️ Welcome</h3>
 
 <br>
+<br>
 <p align="center">
   👋 Hi, I’m <strong>Jeonghyun Han</strong><br>
   🌱 I’m currently diving into <strong>Java</strong>, <strong>Spring</strong>, <strong>Cloud</strong> and the <strong>ELK stack</strong><br>
@@ -16,10 +17,22 @@
 </p>
 
 <br>
-
+<br>
 <!-- | GitAnimals | GitHub Stats |
 |------------|-------------|
 | [![GitAnimals](https://render.gitanimals.org/farms/letsgojh0810)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letsgojh0810&show_icons=true&theme=slateorange&size_weight=0&custom_title=Let's%20Go!&text_bold=true&card_width=500) | -->
+
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/letsgojh0810"
+    width="470"
+    height="240"
+  />
+  </a>
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=letsgojh0810&show_icons=true&theme=vue" alt="Albin's GitHub stats" />
