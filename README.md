@@ -131,9 +131,6 @@
 
 ---
 
-<br>
-<br>
-
 <h3 align="center">📚 Mini Projects</h3>
 
 
