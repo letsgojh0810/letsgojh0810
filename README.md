@@ -84,7 +84,7 @@
 <br>
 
 ---
-<h3 align="center">👩🏻‍💻 Projects</h3>
+<h3 align="center">🚀 Projects</h3>
 
 
 
@@ -127,12 +127,14 @@
   </tbody>
 </table>
 
+<br>
+
 ---
 
 <br>
 <br>
 
-<h3 align="center">👩🏻‍💻 Mini Projects</h3>
+<h3 align="center">📚 Mini Projects</h3>
 
 
 <table align="center">
