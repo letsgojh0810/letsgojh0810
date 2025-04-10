@@ -86,9 +86,7 @@
 ---
 <h3 align="center">👩🏻‍💻 Projects</h3>
 
-<p align="center">
-  <img src="https://your-image-url.com/line.png" width="70%" />
-</p>
+
 
 <table align="center">
   <thead>
@@ -130,13 +128,12 @@
 </table>
 
 ---
+
+<br>
 <br>
 
 <h3 align="center">👩🏻‍💻 Mini Projects</h3>
 
-<p align="center">
-  <img src="https://your-image-url.com/line.png" width="70%" />
-</p>
 
 <table align="center">
   <thead>
