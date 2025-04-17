@@ -124,6 +124,7 @@
       <td><a href="https://github.com/marha-hwang/eater">GitHub</a></td>
       <td>2022.04.01</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -146,6 +147,14 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+    <td><strong>OpenTelemetry 기반 트레이싱 시스템 구현</strong></td>
+    <td>OpenTelemetry SDK + Collector + Tempo + Grafana를 활용한 마이크로서비스 아키텍처 트레이싱 시스템 구축</td>
+    <td>Java, Spring Boot, OpenTelemetry, Docker, PostgreSQL, Tempo, Grafana</td>
+    <td>1명</td>
+    <td><a href="https://github.com/letsgojh0810/otel-demo">GitHub</a></td>
+    <td>2025.04.15</td>
+  </tr>
     <tr>
       <td><strong>학생 정보 관리 시스템</strong></td>
       <td>학생 기본 정보, 목표, 스터디 희망 분야 관리 및 등하교 메이트 매칭 기능 제공</td>
