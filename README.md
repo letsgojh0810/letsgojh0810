@@ -152,7 +152,7 @@
     <td>OpenTelemetry SDK + Collector + Tempo + Grafana를 활용한 마이크로서비스 아키텍처 트레이싱 시스템 구축</td>
     <td>Java, Spring Boot, OpenTelemetry, Docker, PostgreSQL, Tempo, Grafana</td>
     <td>1명</td>
-    <td><a href="https://github.com/letsgojh0810/otel-demo">GitHub</a></td>
+    <td><a href="https://github.com/letsgojh0810/openTelemtry">GitHub</a></td>
     <td>2025.04.15</td>
   </tr>
     <tr>
