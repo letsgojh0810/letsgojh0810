@@ -117,7 +117,7 @@
       <td>2025.02.17</td>
     </tr>
     <tr>
-      <td><strong>맛집 탐색 앱</strong></td>
+      <td><strong>Eater</strong></td>
       <td>카카오맵 API 기반 주변 맛집 탐색 어플</td>
       <td>Android Studio, Kotlin, Kakao Map API, Login API</td>
       <td>4명</td>
