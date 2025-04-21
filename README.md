@@ -112,7 +112,7 @@
       <td>Github API를 이용한 스프린트 와 포트폴리오 서비스</td>
       <td>Java, SpringBoot, GitHub, AWS, Docker, ArgoCD, k8s, PostgreSQL</td>
       <td>6명</td>
-      <td><a href="https://github.com/marha-hwang/eater">GitHub</a></td>
+      <td><a href="https://github.com/Seollal-TF-TEAM/Linkey-infra">GitHub</a></td>
       <td>2025.03.15</td>
     </tr>
     <tr>
@@ -120,7 +120,7 @@
       <td>검색 로그 모니터링 시스템 구축 프로젝트</td>
       <td>ELK, EFK, Java, SpringBoot, AWS, EC2</td>
       <td>6명</td>
-      <td><a href="https://github.com/marha-hwang/eater">GitHub</a></td>
+      <td><a href="https://github.com/Seollal-TF-TEAM/Search-Stack">GitHub</a></td>
       <td>2025.02.17</td>
     </tr>
     <tr>
