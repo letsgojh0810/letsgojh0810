@@ -85,6 +85,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
+  <img src="https://img.shields.io/badge/DB2-003366?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tibero-E60027?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Altibase-005BAC?style=for-the-badge&logoColor=white"/>
 </p>
 <p align="center">
   <!-- ETC -->
