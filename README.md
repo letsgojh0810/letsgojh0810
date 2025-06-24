@@ -157,9 +157,17 @@
   </thead>
   <tbody>
     <tr>
+      <td><strong>Guardians</strong></td>
+      <td>k8s 기반 워게임 서비스 플랫폼</td>
+      <td>Spring Boot, PostgreSQL, JPA, Docker, Kubernetes, ArgoCD, Fabric8</td>
+      <td>6명</td>
+      <td><a href="https://github.com/BeeGuardians/Guardians-backend">GitHub</a></td>
+      <td>2025.06.01</td>
+    </tr>
+    <tr>
       <td><strong>Linkey</strong></td>
       <td>Github API를 이용한 스프린트 와 포트폴리오 서비스</td>
-      <td>Java, SpringBoot, GitHub, AWS, Docker, ArgoCD, k8s, PostgreSQL</td>
+      <td>Java, SpringBoot, GitHub, AWS, EC2, S3, ECR, Docker, ArgoCD, k8s, PostgreSQL</td>
       <td>6명</td>
       <td><a href="https://github.com/Seollal-TF-TEAM/Linkey-infra">GitHub</a></td>
       <td>2025.03.15</td>
