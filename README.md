@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  👋 안녕하세요, 백엔드 개발자 <strong>한정현</strong>입니다.<br>
+  👋 안녕하세요, 백엔드 개발자 <strong>한정현</strong>입니다. <br>
   <strong>Java</strong>와 <strong>Spring</strong>을 중심으로 백엔드 개발에 몰입하고 있으며<br>
   <strong>AWS 기반 인프라 설계</strong>와 <strong>Monitoring stack</strong>도 학습 중입니다.<br>
   <br>
