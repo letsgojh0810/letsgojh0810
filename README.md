@@ -161,7 +161,7 @@
       <td>k8s 기반 워게임 서비스 플랫폼</td>
       <td>Spring Boot, PostgreSQL, JPA, AWS S3, EC2, ECR, Docker, Kubernetes, ArgoCD, Fabric8</td>
       <td>6명</td>
-      <td><a href="https://github.com/BeeGuardians/Guardians-backend">GitHub</a></td>
+      <td><a href="https://github.com/BeeGuardians">GitHub</a></td>
       <td>2025.06.01</td>
     </tr>
     <tr>
