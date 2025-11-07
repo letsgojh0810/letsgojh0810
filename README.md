@@ -66,7 +66,6 @@
   <img src="https://img.shields.io/badge/Spring Data JPA-007396?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-00618A?style=for-the-badge&logo=mybatis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
@@ -75,8 +74,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
@@ -97,7 +94,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tempo-2C2D72?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
 <!-- ELK Stack -->
@@ -120,8 +116,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
   <img src="https://img.shields.io/badge/DB2-003366?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tibero-E60027?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Altibase-005BAC?style=for-the-badge&logoColor=white"/>
 </p>
 
 <!-- Tools -->
@@ -130,7 +124,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
