@@ -34,19 +34,17 @@
   <a href="https://www.gitanimals.org/">
     <img
       src="https://render.gitanimals.org/guilds/705278680570861236/draw"
-      width="480"
-      height="240"
+      width="370"
+      height="200"
       alt="Guild Gitanimals"
     />
   </a>
   
-  &nbsp;
-
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/letsgojh0810"
-      width="470"
-      height="240"
+      width="370"
+      height="200"
       alt="Personal Gitanimals"
     />
   </a>
