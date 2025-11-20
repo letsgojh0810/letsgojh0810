@@ -30,15 +30,27 @@
 |------------|-------------|
 | [![GitAnimals](https://render.gitanimals.org/farms/letsgojh0810)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letsgojh0810&show_icons=true&theme=slateorange&size_weight=0&custom_title=Let's%20Go!&text_bold=true&card_width=500) | -->
 
-<p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/letsgojh0810"
-    width="470"
-    height="240"
-  />
+<div align="center">
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/guilds/705278680570861236/draw"
+      width="480"
+      height="240"
+      alt="Guild Gitanimals"
+    />
   </a>
-</p>
+  
+  &nbsp;
+
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/letsgojh0810"
+      width="470"
+      height="240"
+      alt="Personal Gitanimals"
+    />
+  </a>
+</div>
 
 <br>
 
