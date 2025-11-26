@@ -53,7 +53,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=letsgojh0810&show_icons=true&theme=vue" alt="Albin's GitHub stats" />
+  <img src="https://github-readme-stats-azhim68ed-jh-hans-projects.vercel.app/api?username=letsgojh0810&show_icons=true&theme=vue" alt="Albin's GitHub stats" />
 </p>
 
 
