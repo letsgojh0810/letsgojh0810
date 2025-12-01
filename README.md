@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-  <em>Learning. Growing. Creating. 꾸준히 배우고, 성장하며, 만들어가는 개발자.</em>
+  <em>Learning, Growing, Creating. 꾸준히 배우고, 성장하며, 만들어가는 개발자.</em>
 </div>
 
 
