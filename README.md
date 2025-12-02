@@ -126,7 +126,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/letsgojh0810/Portfolio"> 
+  <a href="https://github.com/letsgojh0810/projects"> 
     <img src="https://img.shields.io/badge/📂_Project_Archives-View_All-blue?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   </a>
 </div>
