@@ -77,7 +77,6 @@
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
         <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Fluentd-2A6EBB?style=for-the-badge&logo=fluentd&logoColor=white"/>
       </td>
     </tr>
     <tr>
