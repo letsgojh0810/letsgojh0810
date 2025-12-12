@@ -15,8 +15,24 @@
     
 </p>
 
+
 <div align="center">
   <em>Learning, Growing, Creating. 꾸준히 배우고, 성장하며, 만들어가는 개발자.</em>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/letsgojh0810"
+      width="420"
+      height="220"
+      alt="Personal Gitanimals"
+    />
+  </a>
 </div>
 
 <br>
