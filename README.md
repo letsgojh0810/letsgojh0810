@@ -1,21 +1,16 @@
+## Welcome!
+#### Backend Developer · Java & Spring · AWS Infrastructure
+
 <br>
 
-<h2 align="center">🙋‍♂️ Welcome</h2>
+I build reliable and scalable backend systems with **Java** and **Spring**.  
+Passionate about **AWS-based infrastructure design** and **observability** through modern monitoring stacks.  
+
+I care about writing clean code, designing thoughtful architecture,  
+and collaborating closely with teams to ship things that matter.
 
 <br>
-
-<p align="center">
-  👋 안녕하세요, 백엔드 개발자 <strong>한정현</strong>입니다. <br>
-  <strong>Java</strong>와 <strong>Spring</strong>을 중심으로 백엔드 개발에 몰입하고 있으며<br>
-  <strong>AWS 기반 인프라 설계</strong>와 <strong>Monitoring stack</strong>에 관심이 많습니다.<br>
-  <br>
-  🚀 새로운 기술을 배우고 직접 만들어보는 것을 좋아합니다.<br>
-  더 나은 코드를 고민하고 더 나은 구조를 설계하는 개발자가 되기 위해 끊임없이 성장 중입니다.<br>
-  개발은 결국 팀과의 소통이라 믿고 협업을 즐깁니다.<br>
-    
-</p>
-
-
+  
 <div align="center">
   <em>Learning, Growing, Creating. 꾸준히 배우고, 성장하며, 만들어가는 개발자.</em>
 </div>
