@@ -1,4 +1,6 @@
-## Welcome!
+<div align="center">
+  
+## Welcome! 🙌
 #### Backend Developer · Java & Spring · AWS Infrastructure
 
 <br>
@@ -11,7 +13,7 @@ and collaborating closely with teams to ship things that matter.
 
 <br>
   
-<div align="center">
+
   <em>Learning, Growing, Creating. 꾸준히 배우고, 성장하며, 만들어가는 개발자.</em>
 </div>
 
