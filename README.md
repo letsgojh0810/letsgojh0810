@@ -1,20 +1,29 @@
 <br>
 
 ## Welcome! 🙌
-#### Backend Developer · AI-Augmented Engineering · Java & Spring
+#### Backend Developer · AI-Augmented Engineering
 
 <br>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/letsgojh0810"
-    width="420"
-    height="220"
-    alt="Personal Gitanimals"
-  />
+  <img src="https://render.gitanimals.org/farms/letsgojh0810" width="420" height="220" alt="Personal Gitanimals" />
 </a>
 
 <br>
+
+---
+
+### 💻 About Me
+```zsh
+$ whoami
+> JH Han: Backend Engineer & UX Enthusiast
+
+$ current-focus
+> Java/Spring Architecture, Observability, User-Centric Design, AI stacks
+
+$ recently
+> Leveraging 'Claude Code' for AI-augmented development workflows
+```
 
 ---
 
@@ -25,9 +34,7 @@ Beyond traditional development, I focus on **AI-driven productivity**, leveragin
 
 <br>
 
-> 💡 *Clean Code · UX-Focused Backend · AI-Driven Workflows · Cloud Architecture*
-
-*Learning, Growing, Creating.*
+> *Clean Code · UX-Focused Backend · AI-Driven Workflows · Cloud Architecture*
 
 <br>
 
