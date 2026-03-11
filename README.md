@@ -1,22 +1,31 @@
 <div align="center">
-  
+
 ## Welcome! 🙌
-#### Backend Developer · Java & Spring · AWS Infrastructure
+#### Backend Developer · AI-Augmented Engineering · Java & Spring
 
 <br>
 
 I build reliable and scalable backend systems with **Java** and **Spring**.  
-Passionate about **AWS-based infrastructure design** and **observability** through modern monitoring stacks.  
+I am deeply committed to **User-Centric Engineering**, believing that backend robustess 
+is the foundation of a seamless user experience.
 
-I care about writing clean code, designing thoughtful architecture,  
-and collaborating closely with teams to ship things that matter.
+Beyond traditional development, I focus on **AI-driven productivity**, 
+leveraging **Claude Code** and LLM workflows to bridge the gap between 
+complex architecture and intuitive service delivery.
 
 <br>
-  
 
-  <em>Learning, Growing, Creating. 꾸준히 배우고, 성장하며, 만들어가는 개발자.</em>
+**Clean Code · UX-Focused Backend · AI-Driven Workflows · Cloud Architecture**
+
+<br>
+
+I care about writing thoughtful code, exploring the frontier of AI-assisted development,  
+and collaborating closely to ship products that users truly love.
+
+<em>Learning, Growing, Creating.</em>
+
 </div>
-
+  
 <br>
 <br>
 
@@ -46,58 +55,44 @@ and collaborating closely with teams to ship things that matter.
 <h3 align="center">🔨 Used Skills & Tools</h3>
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="15%"><b>Backend</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring Data JPA-007396?style=for-the-badge&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MyBatis-00618A?style=for-the-badge&logo=mybatis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Infra & Cloud</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Monitoring & Data</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Database</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-        <img src="https://img.shields.io/badge/DB2-003366?style=for-the-badge&logo=ibm&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Frontend & Tools</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
+<table align="center">
+<tr>
+<td align="center" width="22%"><b>Core Development</b></td>
+<td>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>AI Productivity</b></td>
+<td>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP%20Server-31648c?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Infra & Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Observability</b></td>
+<td>
+<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-5C2D91?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</td>
+</tr>
+</table>
 </div>
 
 <br>
@@ -107,7 +102,8 @@ and collaborating closely with teams to ship things that matter.
 <h3 align="center">🚀 Projects</h3>
 
 <p align="center">
-  진행한 <strong>팀 프로젝트</strong>와 <strong>미니 프로젝트</strong>는 아래 저장소에서 상세하게 확인하실 수 있습니다.<br>
+  Explore my <strong>Collaborative Projects</strong> and <strong>Technical Experiments</strong> <br>
+  in the repositories listed below.
 </p>
 
 <br>
