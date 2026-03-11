@@ -3,32 +3,6 @@
 ## Welcome! 🙌
 #### Backend Developer · AI-Augmented Engineering · Java & Spring
 
-<br>
-
-I build reliable and scalable backend systems with **Java** and **Spring**.  
-I am deeply committed to **User-Centric Engineering**, believing that backend robustness 
-is the foundation of a seamless user experience.
-
-Beyond traditional development, I focus on **AI-driven productivity**, 
-leveraging **Claude Code** and LLM workflows to bridge the gap between 
-complex architecture and intuitive service delivery.
-
-<br>
-
-**Clean Code · UX-Focused Backend · AI-Driven Workflows · Cloud Architecture**
-
-<br>
-
-I care about writing thoughtful code, exploring the frontier of AI-assisted development,  
-and collaborating closely to ship products that users truly love.
-
-<em>Learning, Growing, Creating.</em>
-
-</div>
-  
-<br>
-<br>
-
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm">
     <img
@@ -39,6 +13,27 @@ and collaborating closely to ship products that users truly love.
     />
   </a>
 </div>
+
+<br>
+
+  ---
+
+  I build reliable and scalable backend systems with **Java** and **Spring**.
+  I'm deeply committed to **User-Centric Engineering** — believing that backend robustness is the
+  foundation of a seamless user experience.
+
+  Beyond traditional development, I focus on **AI-driven productivity**,
+  leveraging **Claude Code** and LLM workflows to bridge the gap between complex architecture and
+  intuitive service delivery.
+
+  > 💡 *Clean Code · UX-Focused Backend · AI-Driven Workflows · Cloud Architecture*
+
+  *Learning, Growing, Creating.*
+
+  <br>
+
+  
+<br>
 
 <br>
 
