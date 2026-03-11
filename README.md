@@ -16,22 +16,24 @@
 
 <br>
 
-  ---
+<div align="left">
+  
+---
 
-  I build reliable and scalable backend systems with **Java** and **Spring**.
-  I'm deeply committed to **User-Centric Engineering** — believing that backend robustness is the
-  foundation of a seamless user experience.
+I build reliable and scalable backend systems with **Java** and **Spring**.
+I'm deeply committed to **User-Centric Engineering** — believing that backend robustness is the
+foundation of a seamless user experience.
 
-  Beyond traditional development, I focus on **AI-driven productivity**,
-  leveraging **Claude Code** and LLM workflows to bridge the gap between complex architecture and
-  intuitive service delivery.
+Beyond traditional development, I focus on **AI-driven productivity**,
+leveraging **Claude Code** and LLM workflows to bridge the gap between complex architecture and
+intuitive service delivery.
 
-  > 💡 *Clean Code · UX-Focused Backend · AI-Driven Workflows · Cloud Architecture*
+> 💡 *Clean Code · UX-Focused Backend · AI-Driven Workflows · Cloud Architecture*
 
-  *Learning, Growing, Creating.*
+*Learning, Growing, Creating.*
 
-  <br>
-
+<br>
+</div>
   
 <br>
 
