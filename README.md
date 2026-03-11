@@ -6,7 +6,7 @@
 <br>
 
 I build reliable and scalable backend systems with **Java** and **Spring**.  
-I am deeply committed to **User-Centric Engineering**, believing that backend robustess 
+I am deeply committed to **User-Centric Engineering**, believing that backend robustness 
 is the foundation of a seamless user experience.
 
 Beyond traditional development, I focus on **AI-driven productivity**, 
@@ -30,7 +30,6 @@ and collaborating closely to ship products that users truly love.
 <br>
 
 <div align="center">
-
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=letsgojh0810&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/letsgojh0810"
@@ -47,58 +46,58 @@ and collaborating closely to ship products that users truly love.
   <img src="https://github-readme-stats-beta-seven-67.vercel.app/api?username=letsgojh0810&show_icons=true&theme=vue" alt="Albin's GitHub stats" />
 </p>
 
-
-
 <br>
 
 ---
+
 <h3 align="center">🔨 Used Skills & Tools</h3>
 
 <div align="center">
-<table align="center">
-<tr>
-<td align="center" width="22%"><b>Core Development</b></td>
-<td>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>AI Productivity</b></td>
-<td>
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP%20Server-31648c?style=for-the-badge&logo=target&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Infra & Data</b></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Observability</b></td>
-<td>
-<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-5C2D91?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</td>
-</tr>
-</table>
+  <table align="center">
+    <tr>
+      <td align="center" width="22%"><b>Core Development</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>AI Productivity</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MCP%20Server-31648c?style=for-the-badge&logo=target&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Infra & Data</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Observability</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenTelemetry-5C2D91?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 <br>
 
 ---
+
 <h3 align="center">🚀 Projects</h3>
 
 <p align="center">
