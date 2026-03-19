@@ -46,7 +46,6 @@ Beyond traditional development, I focus on **AI-driven productivity**, leveragin
 ---
 
 ### 🔨 Used Skills & Tools
-
 <table>
   <tr>
     <td align="center" width="22%"><b>Core Development</b></td>
@@ -55,6 +54,8 @@ Beyond traditional development, I focus on **AI-driven productivity**, leveragin
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     </td>
   </tr>
   <tr>
@@ -62,8 +63,8 @@ Beyond traditional development, I focus on **AI-driven productivity**, leveragin
     <td>
       <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
       <img src="https://img.shields.io/badge/MCP%20Server-31648c?style=for-the-badge&logo=target&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -74,6 +75,7 @@ Beyond traditional development, I focus on **AI-driven productivity**, leveragin
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -85,7 +87,6 @@ Beyond traditional development, I focus on **AI-driven productivity**, leveragin
     </td>
   </tr>
 </table>
-
 <br>
 
 ---
