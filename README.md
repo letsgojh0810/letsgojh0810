@@ -23,7 +23,7 @@ $ current-focus
 > Java/Spring Architecture, Observability, User-Centric Design, AI stacks
 
 $ recently
-> Leveraging 'Claude Code' for AI-augmented development workflows
+> Leveraging Claude Code for AI-augmented development workflows
 ```
 
 ---
